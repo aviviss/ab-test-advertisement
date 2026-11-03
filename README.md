@@ -1,5 +1,5 @@
 # a/b-тест рекламной кампании
-учебный проект по продуктовой аналитике на открытом датасете [marketing a/b testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data)
+проект по продуктовой аналитике на открытом датасете [marketing a/b testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data)
 
 ## задача
 сравнить конверсию в покупку у пользователей, видевших рекламу (`ad`), и пользователей, видевших контрольное сообщение (`psa`), оценить величину разницы и её статистическую неопределённость
